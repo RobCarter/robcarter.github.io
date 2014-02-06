@@ -1,0 +1,11 @@
+body {
+	font-family: Helvetica;
+	font-size: 18px;
+	text-align: center;
+	background-color: rbg(48,48,48);
+	color: rgb(200,200,200);
+}
+
+h1 {
+	Font-size: 36px;
+}
