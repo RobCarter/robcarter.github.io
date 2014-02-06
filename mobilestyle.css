@@ -1,0 +1,21 @@
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+body { 
+	color:black; 
+	background-color: #ADD8E6;
+}
+
+h1{
+	font-size: 14;
+	color: black;
+	background-color: #ADD8E6;}
+a {
+	font-size: 12;
+	color: red;
+	background-color: yellow;
+	}
+p {
+	font-family:"Times New Roman", Times, serif;
+	}
+
+ul { 
+	font-family:"Times New Roman", Times, sanserif;}
