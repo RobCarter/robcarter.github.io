@@ -3,9 +3,13 @@ body {
 	font-size: 18px;
 	text-align: center;
 	background-color: #ADD8E6;
-	color: rgb(200,200,200);
+	color: blue;
 }
 
 h1 {
 	Font-size: 36px;
+}
+img {
+	Height: 400px;
+	width: 300px;
 }
