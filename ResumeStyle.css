@@ -1,0 +1,21 @@
+body { 
+	color:blue; 
+	background-color: #ADD8E6;
+}
+
+h1{
+	font-size: 36;
+	color: blue;
+	background-color: #ADD8E6;}
+a {
+	font-size: 18;
+	color: yellow;
+	background-color: cyan;
+	}
+p {
+	font-family:"Times New Roman", Times, serif;
+	}
+
+ul { 
+	font-family:"Times New Roman", Times, sanserif;}
+	
