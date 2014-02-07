@@ -4,11 +4,11 @@ body {
 }
 
 h1{
-	font-size: 14;
+	font-size: 14 px;
 	color: black;
 	background-color: #ADD8E6;}
 a {
-	font-size: 12;
+	font-size: 12 px;
 	color: red;
 	background-color: yellow;
 	}
